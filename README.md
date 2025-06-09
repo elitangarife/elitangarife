@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Eliana Tangarife</h1>
-<h3 align="center">Desarrolladora frontend apasionada de Colombia</h3>
+<h3 align="center">Desarrolladora frontend de Colombia</h3>
 <br>
 
 💻 Desarrolladora Fullstack Frontend | React | Next.js | TypeScript | Tailwind CSS
