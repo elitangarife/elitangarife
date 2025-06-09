@@ -1,56 +1,57 @@
-<h1 align="center">Hi 👋, I'm Eliana Tangarife</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hola 👋, soy Eliana Tangarife</h1>
+<h3 align="center">Desarrolladora frontend apasionada de Colombia</h3>
+<br>
 
-💻 Fullstack Frontend Developer | React | Next.js | TypeScript | Tailwind CSS
+💻 Desarrolladora Fullstack Frontend | React | Next.js | TypeScript | Tailwind CSS
 
-📈 Background in Finance | Fintech-focused
+📈 Formación en Finanzas | Enfocada en el sector fintech
 
+## Sobre mi
+Soy una desarrolladora fullstack con enfoque frontend, apasionada por construir soluciones digitales eficientes, escalables y centradas en el usuario. Completé un bootcamp intensivo fullstack donde trabajé en proyectos del mundo real que reforzaron mis habilidades en tecnologías como React, Next.js, TypeScript, Tailwind CSS y otras herramientas modernas del desarrollo web.
 
+Gracias a mi formación en administración financiera, aporto una visión analítica y orientada al negocio, con un fuerte interés en entornos fintech, donde puedo contribuir tanto desde lo técnico como desde una comprensión profunda de los procesos financieros.
 
-I’m a fullstack frontend developer passionate about building efficient, scalable, and user-centered digital solutions. I completed an intensive fullstack bootcamp where I worked on real-world projects that strengthened my skills in technologies like React, Next.js, TypeScript, Tailwind CSS, and other modern web development tools.
+Me caracterizo por aprender rápido, adaptarme con facilidad a nuevos desafíos y destacar en entornos colaborativos. Actualmente estoy en búsqueda de oportunidades para seguir creciendo profesionalmente y aportar valor en equipos dinámicos e impulsados por la innovación.
 
-With a background in financial management, I bring an analytical, business-oriented perspective to my work, with a strong interest in fintech environments where I can contribute both technically and through a deep understanding of financial processes.
+## 📈 Proyectos
+###  🧾 SmartQR – Pedidos Digitales con QR para Restaurantes (https://www.smart-qr.tech/)
 
-I’m known for learning quickly, adapting to new challenges, and thriving in collaborative environments. I’m currently seeking opportunities to grow professionally and continue adding value in dynamic, innovation-driven teams.
+**SmartQR** es una plataforma multi-tenant que permite a los clientes realizar pedidos escaneando un código QR en su mesa, sin necesidad de mesero. Cada restaurante cuenta con su propio panel de administración para gestionar productos, pedidos, personal, reportes y facturación.
 
-## 📈 Projects
-###  🧾 SmartQR – QR-Based Digital Ordering for Restaurants (https://www.smart-qr.tech/)
+🚀 Funcionalidades destacadas
 
-**SmartQR** is a multi-tenant platform that allows customers to place orders by scanning a QR code at their table — no waiter needed. Each restaurant has its own admin panel for managing products, orders, staff, reports, and billing.
-
-🚀 Key Features
-
-- 📲 QR-based digital ordering from the customer's device.
-- 🧑‍🍳 Kitchen panel with order status flow (pending → in process → ready).
-- 📊 Reporting module with sales data by category, product, and customer.
-- 🤖 OpenAI chatbot integrated as an interactive help center.
-- 💳 Online payment system integrated with Stripe.
-- 🗺️ Address validation with Mapbox (frontend autocomplete + backend verification).
-- 🧑‍💼 User roles: Admin and Staff.
+- 📲 Pedidos digitales desde el dispositivo del cliente mediante código QR.
+- 🧑‍🍳 Panel de cocina con flujo de estados de pedido (pendiente → en proceso → listo).
+- 📊 Módulo de reportes con datos de ventas por categoría, producto y cliente.
+- 🤖 Chatbot con OpenAI integrado como centro de ayuda interactivo.
+- 💳 Sistema de pagos en línea integrado con Stripe.
+- 🗺️ Validación de direcciones con Mapbox (autocompletado en frontend + verificación en backend).
+- 🧑‍💼 URoles de usuario: Administrador y Staff.
 
 ---
-### 🍏 AppleTech – eCommerce Platform for Apple Devices (https://github.com/elitangarife/pm04-front)
+### 🍏 AppleTech – Plataforma eCommerce para Dispositivos Apple (https://github.com/elitangarife/pm04-front)
 
-**AppleTech** is a modern eCommerce platform focused on showcasing and selling Apple digital devices such as iPhones, iPads, MacBooks, and accessories. Built with performance and user experience in mind, it offers a clean, responsive interface.
-
-
- 🚀 Key Features
-
-- 🛒 Seamless shopping experience: browse, search, and filter Apple products
-- 🧾 Product detail pages with specs, images, and related items
-- 📦 Cart and order tracking system
-- 🌐 Fully responsive and mobile-friendly
+**AppleTech** es una moderna plataforma de comercio electrónico enfocada en mostrar y vender dispositivos digitales Apple como iPhones, iPads, MacBooks y accesorios. Diseñada con énfasis en el rendimiento y la experiencia del usuario, ofrece una interfaz limpia y completamente responsiva.
 
 
+ 🚀 Funcionalidades destacadas
+
+- 🛒 Experiencia de compra fluida: explorar, buscar y filtrar productos Apple
+- 🧾 Páginas de detalle de productos con especificaciones e imagen.
+- 📦  Sistema de carrito y seguimiento de ordenes
+- 🌐 Totalmente responsiva y optimizada para dispositivos móviles
 
 
-- 💬 Ask me about **React, Next.js, Typescript, Tailwind CSS, JavaScript, HTML, CSS**
+---
+
+## 💬 Pregúntame sobre
+- **React, Next.js, Typescript, Tailwind CSS, JavaScript, HTML, CSS**
 
 
-<h3 align="left">Connect with me:</h3>
-<link align="left"> 📧 Email: elianatangarifeblandon@gmail.com</link>
+## Conecta conmigo
+<link align="left"> 📧 Correo : elianatangarifeblandon@gmail.com</link>
 <p align="left"> 💼 LinkedIn: https://www.linkedin.com/in/elianatangarifeblandon/</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Lenguajes y herramientas
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
