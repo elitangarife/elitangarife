@@ -14,7 +14,7 @@ With a background in financial management, I bring an analytical, business-orien
 I’m known for learning quickly, adapting to new challenges, and thriving in collaborative environments. I’m currently seeking opportunities to grow professionally and continue adding value in dynamic, innovation-driven teams.
 
 ## 📈 Projects
-###  🧾 SmartQR – QR-Based Digital Ordering for Restaurants (https://github.com/elitangarife/pm04-front)
+###  🧾 SmartQR – QR-Based Digital Ordering for Restaurants (https://www.smart-qr.tech/)
 
 **SmartQR** is a multi-tenant platform that allows customers to place orders by scanning a QR code at their table — no waiter needed. Each restaurant has its own admin panel for managing products, orders, staff, reports, and billing.
 
@@ -29,7 +29,7 @@ I’m known for learning quickly, adapting to new challenges, and thriving in co
 - 🧑‍💼 User roles: Admin and Staff.
 
 ---
-### 🍏 AppleTech – eCommerce Platform for Apple Devices
+### 🍏 AppleTech – eCommerce Platform for Apple Devices (https://github.com/elitangarife/pm04-front)
 
 **AppleTech** is a modern eCommerce platform focused on showcasing and selling Apple digital devices such as iPhones, iPads, MacBooks, and accessories. Built with performance and user experience in mind, it offers a clean, responsive interface.
 
