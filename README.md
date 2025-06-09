@@ -29,9 +29,9 @@ Me caracterizo por aprender rápido, adaptarme con facilidad a nuevos desafíos 
 - 🧑‍💼 URoles de usuario: Administrador y Staff.
 
 ---
-### AppleTech – Plataforma eCommerce para Dispositivos Apple
+### TuTiendaApple – Plataforma eCommerce para Dispositivos Apple
 
-**AppleTech** es una moderna plataforma de comercio electrónico enfocada en mostrar y vender dispositivos digitales Apple como iPhones, iPads, MacBooks y accesorios. Diseñada con énfasis en el rendimiento y la experiencia del usuario, ofrece una interfaz limpia y completamente responsiva.
+**TuTiendaApple** es una moderna plataforma de comercio electrónico enfocada en mostrar y vender dispositivos digitales Apple como iPhones, iPads, MacBooks y accesorios. Diseñada con énfasis en el rendimiento y la experiencia del usuario, ofrece una interfaz limpia y completamente responsiva.
 
 
  🚀 Funcionalidades destacadas
