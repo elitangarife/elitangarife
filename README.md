@@ -48,7 +48,7 @@ I’m known for learning quickly, adapting to new challenges, and thriving in co
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 📧 Email: elianatangarifeblandon@gmail.com</p>
+<link align="left"> 📧 Email: elianatangarifeblandon@gmail.com</link>
 <p align="left"> 💼 LinkedIn: https://www.linkedin.com/in/elianatangarifeblandon/</p>
 
 
